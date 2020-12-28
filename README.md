@@ -1,1 +1,1 @@
-This is an Arm Assembly code for Randomised QuickSort that uses an LFSR with characterstic equation x^16 + x^5 + x^3 + x^2 + 1 to generate both the random array and the random pivot.     
+### This is an Arm Assembly code for Randomised Quick Sort that uses an Linear Feedback shift register [LFSR](https://en.wikipedia.org/wiki/Linear-feedback_shift_register) with characterstic equation x^16 + x^5 + x^3 + x^2 + 1 to generate both the random array and the random pivot.     
